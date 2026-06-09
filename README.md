@@ -1,15 +1,40 @@
-# 👋 你好，我是 JohnChiao75
-
-> 学生 | OIer | 开源开发者
-
-![Metrics](https://metrics.lecoq.io/JohnChiao75?template=classic&languages=1&lines=1&habits=1&activity=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&rss=false&rss.source=johnch.us.ci&rss.limit=4&config.timezone=Asia%2FShanghai)
+<div align="center">
 
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnChiao75&theme=tokyonight" width="100%" />
+
+  <p align="center">
+    <a href="https://github.com/JohnChiao75"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:johnchiao@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=JohnChiao75&style=for-the-badge&color=7C3AED&label=VIEWS" alt="页面访问次数" />
+    <img src="https://img.shields.io/github/stars/JohnChiao75?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
+    <a href="https://github.com/zyh3699/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
+  </p>
+</div>
+
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Skills & Tools
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,linux,arch,html,css,js,git,vscode,markdown,latex,github,docker&perline=9" />
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  Contributions
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnChiao75&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnChiao75&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnChiao75&theme=tokyonight" width="33%" />
+</div>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnChiao75&color=blue&style=flat-square" />
-  <a href="https://github.com/JohnChiao75?tab=followers">
-    <img src="https://img.shields.io/github/followers/JohnChiao75?label=Followers&style=social" />
-  </a>
+  <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
