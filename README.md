@@ -12,7 +12,11 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,linux,arch,html,css,js,git,vscode,markdown,latex,github,docker&perline=9" />
+  <!-- 第一排：语言与底层架构 -->
+  <img src="https://skillicons.dev/icons?i=cpp,rust,py,js,ts,dart,arch,linux,windows&theme=dark" />
+  <br/>
+  <!-- 第二排：编辑器、工具链与前端生态 -->
+  <img src="https://skillicons.dev/icons?i=neovim,vim,vscode,qt,git,github,docker,cloudflare,react,latex&theme=dark" />
 </div>
 
 <h2 align="center">
